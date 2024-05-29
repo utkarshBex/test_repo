@@ -3,7 +3,6 @@ lorem
 ipsum
 lorem 
 ipsum
-
 lorem0000
 ipsumkonjik
 lorem njkjk
@@ -12,7 +11,7 @@ lorem
 ipsum
 lorem 
 ipsum
-lorem 
+lorem
 
 
 ipsum
